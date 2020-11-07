@@ -1,14 +1,14 @@
 ### Hi there 👋
 
 # Jwalin Pandya
-email@jwalin.dev
+You can contact me at email@jwalin.dev for any feedbacks or start a chat!
 
 ## My Github Journal
 Things I did in Github, my thought process, journey through learning various languages and methods, mistakes made, lessons learnt etc. 
 
 > ## Oct 2020
 ###### Oct 28th 2020 - Nov 6th 2020
-Break to plan out next steps, better planning and dev tools needed. :) 
+**Break to plan out next steps, better planning and dev tools needed. :) **
 
 ###### Oct 27th 2020:
 > Moved the separate repos into 1, called it starter projects, started creating this journal, new source of motivation and inspiration :). Found out Github contributions screen does not show the Green dots (so decided to start this journal) 
