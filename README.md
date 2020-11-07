@@ -1,13 +1,14 @@
 ### Hi there 👋
 
-# Jwalin Pandya
-You can contact me at email@jwalin.dev for any feedbacks or start a chat!
+# My name is Jwalin Pandya
+## You can contact me at email@jwalin.dev for any feedbacks or start a chat!
 
 ## My Github Journal
 Things I did in Github, my thought process, journey through learning various languages and methods, mistakes made, lessons learnt etc. 
 
 <details>
-  <summary>Click to expand!</summary>
+  <summary>## Oct 2020</summary>
+  
 ## Oct 2020
 ###### Oct 28th 2020 - Nov 6th 2020
 > Break to plan out next steps, better planning and dev tools needed. :)
