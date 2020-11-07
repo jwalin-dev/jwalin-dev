@@ -7,7 +7,7 @@
 Things I did in Github, my thought process, journey through learning various languages and methods, mistakes made, lessons learnt etc. 
 
 <details>
-  <summary>## Oct 2020</summary>
+  <summary>## Oct 2020 (Click to expand!)</summary>
   
 ## Oct 2020
 ###### Oct 28th 2020 - Nov 6th 2020
