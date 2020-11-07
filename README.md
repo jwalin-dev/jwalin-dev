@@ -6,6 +6,8 @@ You can contact me at email@jwalin.dev for any feedbacks or start a chat!
 ## My Github Journal
 Things I did in Github, my thought process, journey through learning various languages and methods, mistakes made, lessons learnt etc. 
 
+<details>
+  <summary>Click to expand!</summary>
 ## Oct 2020
 ###### Oct 28th 2020 - Nov 6th 2020
 > Break to plan out next steps, better planning and dev tools needed. :)
@@ -26,6 +28,7 @@ Things I did in Github, my thought process, journey through learning various lan
 ###### Oct 18th 2020:
 > Started with project 0 for python, wanted to start learning python through original programming (that is what i call coding without copy-pasting)
 
+</details>
 <!--
 **jwalin-dev/jwalin-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
