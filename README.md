@@ -7,6 +7,16 @@
 Things I did in Github, my thought process, journey through learning various languages and methods, mistakes made, lessons learnt etc. 
 
 <details>
+  <summary>## Nov 2020 (Click to expand!)</summary>
+  <p>
+    
+  ###### Nov 9th 2020:
+  > Forked and updated profile website
+  
+  </p>
+</details>
+
+<details>
   <summary>## Oct 2020 (Click to expand!)</summary>
   <p>
   
